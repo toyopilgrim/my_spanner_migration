@@ -1,0 +1,1 @@
+# my_spanner_migration
